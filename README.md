@@ -3,7 +3,7 @@
 ## Desafio IA da Vonix
 
 ### 1. **Objetivo do Desafio**
-Criar um MVP de um atendente virtual que interaja com clientes via texto, com a finalidade de encaminhar o atendimento ao time correto (Suporte Técnico, Vendas ou Cobranças). O desafio é treinar contextos usando IA e automatizar as interações para esses três cenários fictícios.
+Criar um MVP de um atendente virtual que interaja com clientes via texto, com a finalidade de encaminhar o atendimento ao time correto (Suporte Técnico, Vendas ou Cobranças). *O desafio é treinar contextos usando IA e automatizar as interações para esses três cenários fictícios.*
 
 ### 2. **Regras do Desafio**
 - **Ferramentas permitidas:** Os participantes podem usar a API da OpenAI ou soluções open-source (ex: Rasa, GPT-J, Hugging Face, etc.).
